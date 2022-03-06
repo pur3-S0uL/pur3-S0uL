@@ -4,6 +4,10 @@
 - Play CTF Challenges 
   - [HackTheBox](https://app.hackthebox.com/users/538767) | [TryHackme](https://tryhackme.com/p/Amrit456852)
 
+Like Watching Anime
+  - favourite Anime: OnePiece
+ 
+
 
 
 <!---
