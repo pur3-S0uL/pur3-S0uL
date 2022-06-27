@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A3r1t 
+- 👋 Hi, I’m @pur3-S0uL
 - Undergraduate Computer Science Student
 - Interested in Cyber Security Field
 - Play CTF Challenges 
@@ -11,6 +11,6 @@ Like Watching Anime
 
 
 <!---
-A3r1t/A3r1t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pur3-S0uL/pur3-S0uL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
