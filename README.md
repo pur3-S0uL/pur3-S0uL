@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pur3-S0uL
-- Undergraduate Computer Science Student
-- Interested in Cyber Security Field
-- Play CTF Challenges 
+  
   - [HackTheBox](https://app.hackthebox.com/users/538767) | [TryHackme](https://tryhackme.com/p/Amrit456852)
 
 Like Watching Anime
